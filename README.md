@@ -9,14 +9,14 @@ MCM/ICM C 题的工作，包含参赛论文、建模代码、
 - **赛题方向**：网球比赛势头的评价与预测
 - **参赛队号**：2407590
 - **论文题目**：Mastering the Match: Unveiling the Secrets of Momentum
-- **比赛成绩**：【待填写准确奖项名称】
+- **比赛成绩**：2024 MCM C 题 Meritorious Winner（M 奖）。
 - **团队协作**：本人担任队长，组织并参与各问的讨论与推进，
   与队员共同完成建模、代码实现、结果分析和论文撰写。
 
-## 论文与获奖证书
+## 论文与获奖公示
 
 - **[完整参赛论文（PDF）](2407590.pdf)**
-- **[获奖证书](【待替换为证书文件路径】)**
+- **[COMAP 官方获奖名单（PDF）](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/results/2024_MCM_Problem_C_Results.pdf#page=26)**：第 26 页，队号 2407590，北京工业大学（Beijing University of Technology），Meritorious Winner。
 
 ## 研究内容与仓库说明
 
